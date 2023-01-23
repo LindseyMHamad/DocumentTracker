@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yxp0IjFPf46Ob16x1/Gaw3b/KwTerHrFl1sDrA2x5eIeUdXZHmuSy95t7dOwBkIwOTJ0+XcaP8fGr9ZegvgD1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lindsey\\Desktop\\C# Projects\\Document Tracker\\document-management\\document-management.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lindsey\\.nuget\\packages\\microsoft.data.sqlite\\6.0.13\\microsoft.data.sqlite.6.0.13.nupkg.sha512",
+    "C:\\Users\\Lindsey\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.2\\microsoft.data.sqlite.core.7.0.2.nupkg.sha512",
+    "C:\\Users\\Lindsey\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.2\\sqlitepclraw.bundle_e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\Lindsey\\.nuget\\packages\\sqlitepclraw.core\\2.1.2\\sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\Lindsey\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.2\\sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\Lindsey\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.2\\sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\Lindsey\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
